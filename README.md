@@ -21,7 +21,7 @@ The notebook explores both **app metadata** (category, installs, ratings, price,
 
 - `googleplaystore.csv` — App metadata  
 - `googleplaystore_user_reviews.csv` — User reviews  
-- `EDA_GooglePlayStore.ipynb` — Main notebook with explanations, charts, and sentiment analysis  
+- `Exploratory_Data_Analysis_of_Google_Play_Store_Apps.ipynb` — Main notebook with explanations, charts, and sentiment analysis  
 - `apps_cleaned.csv` — Cleaned app data  
 - `reviews_with_vader.csv` — Reviews with VADER sentiment (if available)  
 - `apps_with_sentiment.csv` — Apps merged with review sentiment (if computed)  
